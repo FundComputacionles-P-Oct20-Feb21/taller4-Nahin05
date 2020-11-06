@@ -1,0 +1,32 @@
+Algoritmo
+1.Inicio
+2.Se pide el valor del CPU
+3.Se pide el valor del teclado
+4.Se pide el valor del pantalla
+5.Se pide el valor del raton
+6.Calcular el valor total de la computadora
+7.Se presenta el resultado de la suma
+8.Fin
+
+Miniespecificaciones
+1.Inicio
+//declaro las variables
+2.valorCpu, d[0,n]
+3.valorTeclado, d[0,n]
+4.valorPantalla, d[0,n]
+5.valorRaton, d[0,n]
+6.valorTotal, d[0,n]
+//pido los datos por teclado - entrada
+7.Escribir "Ingrese el valor del CPU"
+8.Leer valorCpu
+9.Escribir "Ingrese el valor del teclado"
+10.Leer valorTeclado
+Escribir "Ingrese el valor del pantalla"
+11.Leer valorPantalla
+Escribir "Ingrese el valor del raton"
+12.Leer valorRaton
+//proceso
+13.valorTotal <-- valorCpu + valorTeclado + valorPantalla + valorRaton
+//salida
+14. Escribir "El valor total de la computadora es: " +valorTotal
+15.Fin

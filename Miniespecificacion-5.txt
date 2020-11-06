@@ -1,0 +1,26 @@
+Algoritmo
+1.Inicio
+2.Se ingresa el monto del prestamo
+3.Se ingresa el interes de cada mes
+4.Se ingresa el plazo dado
+5.Se divide el valor del prestamo por el plazo y se suma el interes
+6.Se presenta en pantalla el resultado
+7.Fin
+
+Miniespecificaiones
+1.Inicio
+//declaro variables
+2.valorPrestamo, d[0,n]
+3.valorInteres, d[0,n]
+4.plazo, d[12]
+5.valorTotal, d[0,n]
+//pido los datos por teclado - entrada
+Escribe "Ingrese valor del prestamo"
+6.leer valorPrestamo
+Escribe "Ingrese valor del interes"
+7.leer valorInteres
+//proceso
+8.valorTotal <-- valorPrestamo/plazo + valorInteres
+//salida
+9.Escribir "Mensualidad: " +valorTotal
+10.Fin

@@ -1,0 +1,24 @@
+Algoritmo
+1.Inicio
+2.Se pide al usuario que ingrese la base
+3.Se pide al usuario que ingrese la altura
+4.Se calcula el area del triangulo multiplicando la base ingresada por la altura ingresada y se divide para 2
+5.Se presenta en pantalla el resultado
+6.Final
+
+Miniespecificaciones
+1.Inicio 
+//Declaro las variables
+2.base, d[0,n]
+3.altura, d[0,n]
+4.area, d[0,n]
+//pido datos por teclado - entradas
+5.Escribir "Ingrese base del triangulo"
+6.leer base
+7.Escribir "Ingrese la altura del triangulo"
+8.Leer altura
+//proceso
+9.area<--base * altura/2
+//salida
+10.Escribir "area del triangulo:" + area
+11.Fin
